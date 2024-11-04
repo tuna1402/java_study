@@ -63,7 +63,7 @@ class Person {
     }
 }
 
-public class App {
+public class ClassPracticeOne {
     public static void main(String[] args) {
         Car car1 = new Sedan("소나타", "디젤");
         Person person1 = new Person("John");
